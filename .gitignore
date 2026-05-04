@@ -1,0 +1,11 @@
+# Visual Studio build output
+bin/
+obj/
+.vs/
+packages/
+*.user
+*.suo
+*.cache
+*.log
+*.db
+*.jfm
